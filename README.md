@@ -1,39 +1,26 @@
-  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Kandugula%20Sanhith&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20B.Tech%20CSE%20%40%20SNIST&descAlignY=58&descSize=18&animation=fadeIn" alt="banner" />
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=200&section=header&text=Kandugula%20Sanhith&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=kandugulasanhith25@gmail.com&descAlignY=55&descSize=16&descColor=cccccc" alt="banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+React+%26+Node;Turning+ideas+into+shipped+products;Seeking+a+Software+Development+Internship" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=CCCCCC&background=000000&center=true&vCenter=true&width=650&lines=Code+is+the+closest+thing+we+have+to+magic.;Build+it.+Break+it.+Understand+it.+Rebuild+it." alt="quote" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/KandugulaSanhith" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/sanhithk" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:kandugulasanhith25@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/📍_Hyderabad,_Telangana-4B5563?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanhithk&style=flat-square&color=6366F1" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sanhithk&style=flat-square&color=000000" alt="profile views" />
 </p>
-
----
-
-## 👋 Profile
-
-I'm a **B.Tech Computer Science student at Sreenidhi Institute of Science and Technology** (CGPA: 8.3/10.0), building full-stack web applications with **React.js, Node.js, Express.js, and PostgreSQL**. My focus is REST API design, database schema design, and responsive UI — most recently on **PlaceTrack**, a live placement preparation platform used by real students.
-
-- 🏗️ Currently building and shipping production full-stack projects
-- 🔍 Interests: system design, clean database schemas, and API architecture
-- 🤝 Active contributor to open-source projects and campus tech events
-- 🎯 Actively looking for a **Software Development Internship**
-- 💬 Ask me about React, Node.js/Express, or PostgreSQL
 
 ---
 
@@ -89,47 +76,17 @@ I'm a **B.Tech Computer Science student at Sreenidhi Institute of Science and Te
 
 ---
 
-### 📌 Featured Projects
-
-#### 🎯 [PlaceTrack – AI Placement Preparation Platform](#)
-A live, full-stack placement prep platform with 10+ modules, built for students to track their job search end to end.
-- Dashboard, **Resume Analyzer** (ATS compatibility scoring against job descriptions with improvement suggestions), and Mock Interview module
-- **Coding Stats** tracker, **Company Hub** with company-specific prep material, and a **Job Tracker** for managing applications
-- Tracks applications, interviews, and resume scores in real time
-- **Stack:** React.js · Node.js/Express · PostgreSQL · deployed on Render
-
-
-
-#### 📊 [Sales Analytics & Reporting Pipeline](#)
-A Python-based data pipeline for structured sales analysis and automated reporting.
-- Cleans and loads sales data into PostgreSQL for analysis
-- SQL queries using joins, aggregations, and window functions to surface revenue trends and top products across 5+ regions
-- Automated, scheduled report generation with chart-based visualization of key metrics
-- **Stack:** Python · PostgreSQL · SQL
-
-> 💡 Replace the `#` links above with your actual repository URLs.
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanhithk&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanhithk&layout=compact&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanhithk&show_icons=true&theme=dark&bg_color=000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanhithk&layout=compact&theme=dark&bg_color=000000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanhithk&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanhithk&theme=dark&background=000000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanhithk&theme=react-dark" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=100&section=footer" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer" />
-</p>
-
-<p align="center"><i>Open to Software Development Internship opportunities 🚀</i></p>
